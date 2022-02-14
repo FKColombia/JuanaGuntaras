@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Reatiga;Carlos;;;
-FN: Carlos Reatiga
+N:Guntaras;Juana;;;
+FN: Juana Guntaras
 ORG: Fresenius Kabi;
-TITLE: Representante de Promoción y Ventas
-EMAIL;type=INTERNET;type=WORK;type=pref:carlos.reatiga@fresenius-kabi.com
-TEL;type=WORK;type=VOICE:+573168326202
+TITLE: Representante de Promoción Médica
+EMAIL;type=INTERNET;type=WORK;type=pref:juana.guntaras@fresenius-kabi.com
+TEL;type=WORK;type=VOICE:+573222336525
 item1.ADR;type=WORK;type=pref:;;Avenida Carrera 7 # 155c - 20\nPiso 40\, Bogotá;Colombia
 item1.X-ABADR:sg
 item2.URL;type=pref:www.fresenius-kabi.com/co
